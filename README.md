@@ -15,3 +15,4 @@ The website was created by Serhiy Paziuk and Stanislav Kovalchuk (https://github
 ![PHP](https://img.shields.io/badge/-PHP-090909?style=for-the-badge&logo=php)
 ![SQL](https://img.shields.io/badge/-SQL-ffffff?style=for-the-badge&logo=mysql)
 ![PhpMyAdmin](https://img.shields.io/badge/-PhpMyAdmin-ffffff?style=for-the-badge&logo=phpmyadmin)
+![GIT](https://img.shields.io/badge/-GIT-ffffff?style=for-the-badge&logo=git)
