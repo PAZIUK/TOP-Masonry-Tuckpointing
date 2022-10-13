@@ -1,6 +1,6 @@
 ## TOP-Masonry-Tuckpointing - Project Description <br>
 
-The website was created by Serhiy Paziuk and Stanislav Kovalchuk (https://github.com/Stanislavkvv) for TOP-Masonry-Tuckpointing. <br/>
+The website was created by Serhiy Paziuk and Stanislav Kovalchuk (https://github.com/Stanislavkvv) for TOP Masonry&Tuckpointing. <br/>
 View website : https://top-masonry.com  <br/>
 
 For creating were used: <br/>
