@@ -6,7 +6,7 @@ TOP Masonry&Tuckpointing is a full service masonry, E.I.F.S./stucco and caulking
 
 The website was created by Serhiy Paziuk and [Stanislav Kovalchuk](https://github.com/Stanislavkvv) for TOP Masonry&Tuckpointing. <br/>
 
-### Link to the website you can find [here](https://github.com/PAZIUK/PAZIUK/blob/main/README.md#my-projects)<br/>
+### Link to the website you can find [here](https://github.com/PAZIUK#-websites)<br/>
 
 ## For creating were used <br/>
 
